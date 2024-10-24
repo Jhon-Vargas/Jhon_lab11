@@ -1,0 +1,19 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Jhon Alberto Vargas Flores ",
+        "gender": "Masculino",
+        "age": 24,
+        "role": "Estudiante Ing Ciencias de la computacion"
+      },
+      {
+        "id": 2,
+        "name": "María López",
+        "gender": "female",
+        "age": 28,
+        "role": "Marketing Specialist"
+      }
+    ]
+  }
+  
